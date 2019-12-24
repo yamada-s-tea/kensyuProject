@@ -107,6 +107,13 @@
 			<td style="text-align: right;">550</td>
 			<td style="text-align: right;">0</td>
 		</tr>
+		<tr>
+			<td>不思議なチカラ</td>
+			<td style="text-align: right;">1000</td>
+			<td style="text-align: right;">1000</td>
+			<td style="text-align: right;">1000</td>
+			<td style="text-align: right;">1000</td>
+		</tr>
 	</table>
 </body>
 </html>
