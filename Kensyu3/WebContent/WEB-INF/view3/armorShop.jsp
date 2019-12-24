@@ -95,7 +95,6 @@
 
 				<br>
 				<input type="submit" value="装備を確定して戻る" name="back">
-				<a href="/Kensyu3/Kensyu3Servlet">やめる</a>
 		</div>
 		<input type="hidden" value="armorShop" name="beforePage">
 		</form>
