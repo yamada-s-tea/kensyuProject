@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+
+#name1{
+	height:25px;
+	width:200px;
+	float:left;
+	margin-bottom:5px;
+}
+#name2{
+	height:25px;
+	width:200px;
+	float:left;
+	margin-bottom:5px;
+}
+#age{
+	height:25px;
+	width:130px;
+	clear:left;
+	float:left;
+	margin-bottom:5px;
+}
+#sex{
+	height:25px;
+	width:150px;
+	float:left;
+	margin-bottom:5px;
+}
+#adress{
+	height:25px;
+	width:300px;
+	clear:left;
+	folat:left;
+	margin-bottom:5px;
+}
+
+#biko{
+	height:25px;
+	width:250px;
+	float:left;
+	margin-bottom:5px;
+}
+#ageError{
+	height:25px;
+	width:300px;
+	font-size:14px;
+	font-weight:bold;
+	color:red;
+	float:left;
+
+}
+#registBtn{
+	height:30px;
+	width:200px;
+	font-size:15px;
+	clear:left;
+	margin-bottom:5px;
+}
+
+select{
+	font-size:15px;
+}
+

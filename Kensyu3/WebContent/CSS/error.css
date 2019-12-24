@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+body{
+	height:100vh;
+	width:auto;
+	background:radial-gradient(#ffffff,#000000);
+	/*linear-gradient(#e7609e,#674196);*/
+	color:#ffffff;
+	font-weight:bold;
+	font-family:serif;
+	font-size:20px;
+}

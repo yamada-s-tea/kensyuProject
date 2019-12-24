@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+body{
+	height:100vh;
+	background-color:#CC99FF;
+	color:white;
+}
+
+#whole{
+	width:900px;
+	font-family:serif;
+}

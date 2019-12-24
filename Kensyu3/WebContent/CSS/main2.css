@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+	height:100vh;
+	width:auto;
+	/*background:linear-gradient(#e7609e,#674196);*/
+	/*radial-gradient(#674196,#e7609e);*/
+}
+#resultMsg2{
+	color:black;
+	font-size:20px;
+}
+#resultMsg{
+	color:white;
+	font-size:20px;
+}

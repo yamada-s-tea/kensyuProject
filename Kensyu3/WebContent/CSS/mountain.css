@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+
+body{
+	background-image: url(../image/mt.jpg);
+	background-size: cover;
+}

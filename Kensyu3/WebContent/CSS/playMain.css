@@ -1,0 +1,143 @@
+@CHARSET "UTF-8";
+
+body{
+	height:100vh;
+	background-color:#b7ffb7;
+}
+
+#all{
+	width:900px;
+}
+
+#mStatus{
+	float:left;
+	height:300px;
+	width:200px;
+	background:#e6f2ff;
+	padding:10px;
+	border:solid;
+	border-color:#b2d8ff;
+}
+
+#mStatusB{
+	float:left;
+	height:220px;
+	width:180px;
+	background:#e6f2ff;
+	padding:10px;
+	border:solid;
+	border-color:#b2d8ff;
+}
+#eStatus{
+	float:left;
+	height:220px;
+	width:180px;
+	margin-left:50px;
+	background:#ffe3e3;
+	padding:10px;
+	border:solid;
+	border-color:#ffb2b2;
+}
+
+#choosePlaceLogWindow{
+	float:left;
+	height:300px;
+	width:400px;
+	margin-left:15px;
+	background:black;
+	color:white;
+	padding:10px;
+	border:solid;
+	border-color:#00ffff;
+
+	position: relative;
+}
+
+#msgWindow{
+	position:fixed;
+	top:350px;
+	height:300px;
+	width:700px;
+	background:black;
+	color:white;
+	padding:10px;
+	border:solid;
+	border-color:#ffff00;
+}
+#msgBuyWindow{
+	position:fixed;
+	top:350px;
+	height:200px;
+	width:700px;
+	background:black;
+	color:white;
+	padding:10px;
+	border:solid;
+	border-color:#ffff00;
+}
+#commandWindow{
+	 position:absolute;
+	 bottom:10px;
+}
+
+#inputWindow{
+	height:300px;
+	width:700px;
+	background:black;
+	color:white;
+	padding:10px;
+	border:solid;
+	border-color:#00ffff;
+}
+
+#resultWindow{
+	height:100px;
+	width:130px;
+	background:black;
+	color:white;
+	padding:10px;
+	border:solid;
+	border-color:#00ffff;
+}
+
+#equipWindow{
+	float:left;
+	height:300px;
+	width:300px;
+	margin-left:15px;
+	background:black;
+	color:white;
+	padding:10px;
+	border:solid;
+	border-color:#00ffff;
+
+	position: relative;
+}
+
+#goodsWindow{
+	float:left;
+	height:450px;
+	width:700px;
+	margin-top:15px;
+	background:black;
+	color:white;
+	padding:10px;
+	border:solid;
+	border-color:#00ffff;
+
+	position: relative;
+}
+
+select{
+	font-size:15px;
+}
+a:link{
+color:#ffff00;
+text-decoration:none;
+}
+a:visited{
+color:#ffff00;
+}
+a:hover{
+color:#ff4500;
+}
